@@ -26,3 +26,11 @@ Once set up, you're ready to go! Enjoy tracking the weather with a touch of Pok√
 - **Persistent City Search:** The last searched city is saved in `last.txt`. When you reopen the app, it quickly displays the weather for the last searched city, similar to mobile weather apps.
   
 - **Theme Customization:** You can change the app's theme, and your selection will be remembered for future use.
+
+
+## Next Update
+
+- **Fixing icon
+- **Add shiny
+- **Add a world map to choose
+- **Add the future weather
