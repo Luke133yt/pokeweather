@@ -1,6 +1,6 @@
 # PokeWeather
 
-![PokeWeather Logo](logo_pokeweather.png)
+![PokeWeather Logo](https://github.com/Luke133yt/pokeweather/blob/main/logo%20pokeweather.png)
 
 PokeWeather is a simple weather app created with Python, inspired by the love for Pokémon.
 
