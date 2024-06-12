@@ -6,10 +6,12 @@ from ttkbootstrap.constants import *
 import ttkbootstrap
 
 last_searched_city = open('last.txt', 'r').read()
+last_theme = open('last_theme.txt', 'r').read()
 
 def change_theme(event):
     selected_theme = combobox.get()
     app.style.theme_use(selected_theme)
+    with open('last_theme.txt', 'w') as file: file.write(selected_theme)
 
 def get_weather(city):
 
@@ -69,7 +71,7 @@ def change_last_city(city):
     with open('last.txt', 'w') as file: file.write(city)
 
 #app structure
-app = ttkbootstrap.Window(themename="solar")    #if you want to change the default theme, change it with the theme name, you can find the name in the dropdown menu when you launch the software
+app = ttkbootstrap.Window(themename=last_theme)    #if you want to change the default theme, change it with the theme name, you can find the name in the dropdown menu when you launch the software
 app.title("PokèWeather")
 app.geometry("800x800")
 
