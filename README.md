@@ -45,3 +45,9 @@ Once set up, you're ready to go! Enjoy tracking the weather with a touch of Pok√
 - **Add shiny
 - **Add a world map to choose
 - **Add the future weather
+
+
+## A Few App Screeschoot
+
+![Screenshoot 1](https://github.com/Luke133yt/pokeweather/blob/main/screenshoot/screenshoot_1.png)
+![Screenshoot 2](https://github.com/Luke133yt/pokeweather/blob/main/screenshoot/screenshoot_2.png)
