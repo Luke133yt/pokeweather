@@ -12,9 +12,20 @@ The sprites used in the app belong to Pokémon, and all rights are reserved by T
 ## Usage
 
 To run the app, ensure you have the following requirements installed:
-- tkinter
-- ttkbootstrap
-- requests
+- Python
+- tkinter (library)
+- ttkbootstrap (library)
+- requests (library)
+
+  Windows:
+  py -m pip install tkinter
+  py -m pip install ttkbootstrap
+  py -m pip install requests
+
+  Linux:
+  pip3 install tkinter
+  pip3 install ttkbootstrap
+  pip3 install requests
 
 Additionally, you need to create an account on [openweathermap.org](https://openweathermap.org/) and generate an API key.
 Insert this API key into the 16th line of the code.
