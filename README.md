@@ -28,7 +28,7 @@ To run the app, ensure you have the following requirements installed:
   pip3 install requests
 
 Additionally, you need to create an account on [openweathermap.org](https://openweathermap.org/) and generate an API key.
-Insert this API key into the 16th line of the code.
+Insert this API key in apikey.txt file
 
 Once set up, you're ready to go! Enjoy tracking the weather with a touch of Pokémon magic.
 
