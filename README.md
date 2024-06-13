@@ -48,6 +48,7 @@ Once set up, you're ready to go! Enjoy tracking the weather with a touch of Pok�
 - **Add a world map to choose
 - **Add the future weather
 - **If i'll find a good pixel artist combine the relative weather with the pokèmon, like solgaleo and a sun, lunala and the moon, and soo on
+- **I was thinking about adding a GIF instead of a normal picture of a pokèmon
 
 
 ## A Few App Screeschoot
