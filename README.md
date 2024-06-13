@@ -27,6 +27,8 @@ To run the app, ensure you have the following requirements installed:
   pip3 install ttkbootstrap
   pip3 install requests
 
+  JUST IN CASE I'VE MADE AN EXECUTABLE VERSION OF THE SOFTWARE YOU CAN FIND [HERE](https://github.com/Luke133yt/pokeweather/releases/tag/1.0), JUST FOLLOWING THE ISTRUCTION ON THAT PAGE
+
 Additionally, you need to create an account on [openweathermap.org](https://openweathermap.org/) and generate an API key.
 Insert this API key in apikey.txt file
 
