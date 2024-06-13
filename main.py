@@ -7,6 +7,7 @@ import ttkbootstrap
 
 last_searched_city = open('last.txt', 'r').read()
 last_theme = open('last_theme.txt', 'r').read()
+api_key = open('apikey.txt', 'r').read()
 
 def change_theme(event):
     selected_theme = combobox.get()
@@ -15,7 +16,6 @@ def change_theme(event):
 
 def get_weather(city):
 
-    api_key = ""
     url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&units=imperial&APPID={api_key}"
     res = requests.get(url)
 
